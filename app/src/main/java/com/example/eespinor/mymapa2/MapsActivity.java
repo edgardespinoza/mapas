@@ -59,6 +59,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             public void onMarkerDragStart(Marker marker)
             {
                 // TODO Auto-generated method stub
+                //solo una demos
                 marker.hideInfoWindow();
             }
 
